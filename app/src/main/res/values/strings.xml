@@ -1,0 +1,7 @@
+<resources>
+    <string name="app">ex005</string>
+    <string name="author_data">Renan Santos Carvalho\n1110482313034</string>
+    <string name="autoConsumeLabel">Consumo (km/l)</string>
+    <string name="autoCurrGas">Litros no tanque</string>
+    <string name="buttonCalc">Calcular</string>
+</resources>
